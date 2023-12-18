@@ -9,11 +9,11 @@ Arquitectura de capas:
 
 1.Controller: Es la capa que contiene todos los endpoints de la aplicacion.
 
-1.Model: Es la capa que representa el modelo de datos (entidades).
+2.Model: Es la capa que representa el modelo de datos (entidades).
 
-1.Repositoy: Es la capa que contiene las clases que establecen la comunicacion con las base de datos.
+3.Repositoy: Es la capa que contiene las clases que establecen la comunicacion con las base de datos.
 
-1.Service: Es la capa que contiene las clases que responden a la funcionalidad y logica.
+4.Service: Es la capa que contiene las clases que responden a la funcionalidad y logica.
 
 Requerimientos:
 
@@ -25,6 +25,9 @@ Requerimientos:
 6. Eliminar producto por id.
 
 Tecnologias usadas:
+
+<span>![</span><span>Tecnologias: Java, Spring Boot, MySQL</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png</span><span>)</span>
+
 
 
 
