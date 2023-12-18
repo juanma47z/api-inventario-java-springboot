@@ -1,0 +1,5 @@
+com\api\inventario\model\ProductoModel.class
+com\api\inventario\controllers\ProductoController.class
+com\api\inventario\InventarioApplication.class
+com\api\inventario\service\ProductoService.class
+com\api\inventario\repository\IProductoRepository.class
