@@ -26,7 +26,9 @@ Requerimientos:
 
 Tecnologias usadas:
 
-<span>![</span><span>Tecnologias: Java, Spring Boot, MySQL</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png</span><span>)</span>
+![texto cualquiera por si no carga la imagen]([url completa de la imagen](https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)
+
+
 
 
 
