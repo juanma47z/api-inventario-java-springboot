@@ -1,5 +1,8 @@
 # API Inventario
-API REST de un inventario desarrollado en Java con Spring Boot.
+
+<em>API REST de un inventario desarrollado en Java con Spring Boot.</em>
+
+Descripción:
 
 El proyecto desarrollado presenta una arquitectura MVC (Modelo-Vista-Controlador).
 
@@ -26,7 +29,7 @@ Requerimientos:
 
 Tecnologias usadas:
 
-![texto cualquiera por si no carga la imagen]([url completa de la imagen](https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)https://github.com/juanma47z/api-inventario-java-springboot/blob/main/tecnologias.png)
+![Descripción de la imagen](/tecnologias.png)
 
 
 
