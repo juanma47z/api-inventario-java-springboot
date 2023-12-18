@@ -2,13 +2,13 @@
 
 <em>API REST de un inventario desarrollado en Java con Spring Boot.</em>
 
-##Descripción
+## Descripción
 
 El proyecto desarrollado presenta una arquitectura MVC (Modelo-Vista-Controlador).
 
 En la cual separa la logica de negocio, la interaccion con el usuario y la presentacion.
 
-##Arquitectura de capas
+## Arquitectura de capas
 
 1.Controller: Es la capa que contiene todos los endpoints de la aplicacion.
 
@@ -18,7 +18,7 @@ En la cual separa la logica de negocio, la interaccion con el usuario y la prese
 
 4.Service: Es la capa que contiene las clases que responden a la funcionalidad y logica.
 
-##Requerimientos
+## Requerimientos
 
 1. CRUD completo para la entidad.
 2. Mostrar todos los productos.
@@ -27,7 +27,7 @@ En la cual separa la logica de negocio, la interaccion con el usuario y la prese
 5. Actualizar producto por id.
 6. Eliminar producto por id.
 
-##Tecnologias usadas
+## Tecnologias usadas
 
 ![Descripción de la imagen](/tecnologias.png)
 
